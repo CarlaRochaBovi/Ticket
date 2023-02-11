@@ -1,5 +1,5 @@
 # Ticket
 
-## An event from #bora-codar
+## A project from #bora-codar
 
 ![Preview](./assets/preview.jpg)
